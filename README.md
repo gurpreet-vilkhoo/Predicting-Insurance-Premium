@@ -1,6 +1,14 @@
 # Predicting-Insurance-Premium
 Data visualization and building model using Multiple Linear regression, Polynomial Regression, Decision Tree, Random Forest regression methods and predicting insurance premium for sample data
 
+
+#### Dataset
+
+![image](https://user-images.githubusercontent.com/80466173/111585570-85623b00-87e5-11eb-89f3-205af84b0067.png)
+
+![image](https://user-images.githubusercontent.com/80466173/111585629-98750b00-87e5-11eb-85bd-643f0c281557.png)
+
+
 #### Correlation
 ![image](https://user-images.githubusercontent.com/80466173/111584455-e38e1e80-87e3-11eb-9e2e-82152c14c7e8.png)
 
